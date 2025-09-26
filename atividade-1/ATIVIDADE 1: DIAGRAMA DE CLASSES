@@ -1,0 +1,5 @@
+Forma: Interface comum
+
+Retangulo e Quadrado: Implementam Forma, NÃO herdam entre si
+
+Cada um tem seus próprios atributos
